@@ -1,7 +1,4 @@
-git add .
-git commit -m "Initial commit"
-git remote add origin [https://github.com/yourusername/foodalppo.git](https://github.com/yourusername/foodalppo.git)
-git push -u origin mainname: Deploy to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
