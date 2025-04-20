@@ -139,7 +139,7 @@ export default function About() {
               transition={{ duration: 0.5, delay: 0.4 }}
               viewport={{ once: true }}
             >
-              Elk gerecht wordt gemaakt met deze traditionele recepten en verse ingrediënten. Van knapperige falafel tot sappige BBQ-spiesen en zoete ma'amoul koekjes - bij Foodalppo proef je de echte, authentieke smaken van een Aleppo familiekeuken.
+              Elk gerecht wordt gemaakt met deze traditionele recepten en verse ingrediënten. Van knapperige falafel tot sappige BBQ-spiesen en zoete ma&apos;amoul koekjes - bij Foodalppo proef je de echte, authentieke smaken van een Aleppo familiekeuken.
             </motion.p>
           </motion.div>
         </div>

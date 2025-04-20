@@ -3,7 +3,8 @@ import type { NextConfig } from "next";
 /** @type {import('next').NextConfig} */
 const nextConfig: NextConfig = {
   output: 'export',
-  basePath: '/foodalppo',
+  // Comment out basePath for local development
+  // basePath: '/foodalppo',
   images: {
     unoptimized: true,
   },
